@@ -25,4 +25,4 @@ To reproduce the results:
 1. Download and unzip the [Dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)  
 2. Set the `main_path` variable in `run_analysis.R` to the unzipped folder  
 3. Install required R packages: `dplyr`, `janitor`  
-4. Run the script: `source("run_analysis.R")`
+4. Run the script: `run_analysis.R`
